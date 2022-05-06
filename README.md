@@ -6,5 +6,5 @@ This is a repository of stereo datasets, together with processing recipes and pr
   * [ASTER](https://github.com/NeoGeographyToolkit/StereoPipelineSolvedExamples/releases/tag/ASTER) - a good introductory example for creating terrain models with publicly available Earth images and RPC cameras.
   * [Dawn](https://github.com/NeoGeographyToolkit/StereoPipelineSolvedExamples/releases/tag/DawnFC) - a small and simple example using the Dawn Framing Camera with images of asteroid Vesta.
   * [LRO NAC](https://github.com/NeoGeographyToolkit/StereoPipelineSolvedExamples/releases/tag/LRONAC) - an example for the Moon using the LRO NAC linescan camera.
-  * [Mini-RF](https://github.com/NeoGeographyToolkit/StereoPipelineSolvedExamples/releases/tag/MiniRF) - a more exotic eample for the Moon using the Mini-RF Synthetic Aperture Radar (SAR) instrument.
+  * [Mini-RF](https://github.com/NeoGeographyToolkit/StereoPipelineSolvedExamples/releases/tag/MiniRF) - a more exotic example for the Moon using the Mini-RF Synthetic Aperture Radar (SAR) instrument.
   
