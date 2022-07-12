@@ -1,7 +1,7 @@
 NASA Ames Stereo Pipeline solved examples
 -----------------------------------------
 
-This is a repository of stereo datasets, together with processing recipes and produced terrain models using the [NASA Ames Stereo Pipeline](https://github.com/NeoGeographyToolkit/StereoPipeline). The goal is to have a handful of representative and self-contained examples to give users a chance to practice running the tools. For more examples, see the [documentation](https://stereopipeline.readthedocs.io/en/latest/examples.html).
+This is a repository of image and camera datasets, together with processing recipes and produced terrain models using the [NASA Ames Stereo Pipeline](https://github.com/NeoGeographyToolkit/StereoPipeline). The goal is to have a handful of representative and self-contained examples to give users a chance to practice running the tools. For more examples, see the [documentation](https://stereopipeline.readthedocs.io/en/latest/examples.html).
 
 ## Two-image stereo
 
