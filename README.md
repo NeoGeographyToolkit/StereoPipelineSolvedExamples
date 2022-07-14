@@ -11,7 +11,7 @@ This is a repository of image and camera datasets, together with processing reci
   * [LRO WAC](https://github.com/NeoGeographyToolkit/StereoPipelineSolvedExamples/releases/tag/LROWAC) - an example for the Moon using the LRO WAC pushframe camera.
   * [Mini-RF](https://github.com/NeoGeographyToolkit/StereoPipelineSolvedExamples/releases/tag/MiniRF) - a more exotic example for the Moon using the Mini-RF Synthetic Aperture Radar (SAR) instrument.
   
-## Rig calibration and creation of meshes
+## Rig calibration and mesh creation
 
  * [Rig calibrator](https://github.com/NeoGeographyToolkit/StereoPipelineSolvedExamples/releases/tag/rig_calibrator) - an example of using the rig_calibrator program in ASP to calibrate a rig of three cameras. 
  * [ISS mesh creation](https://github.com/NeoGeographyToolkit/StereoPipelineSolvedExamples/releases/tag/multi_stereo) - an example of running pairwise stereo on a set of images acquired on the International Space Station and creating a textured mesh.
