@@ -16,4 +16,4 @@ This is a repository of image and camera datasets, together with processing reci
  * [Rig calibrator](https://github.com/NeoGeographyToolkit/StereoPipelineSolvedExamples/releases/tag/rig_calibrator) - an example of using the rig_calibrator program in ASP to calibrate a rig of three cameras. 
  * [ISS mesh creation](https://github.com/NeoGeographyToolkit/StereoPipelineSolvedExamples/releases/tag/multi_stereo) - an example of running pairwise stereo on a set of images acquired on the International Space Station and creating a textured mesh.
  * [MSL mesh](https://github.com/NeoGeographyToolkit/StereoPipelineSolvedExamples/releases/tag/MSL) - an example of running pairwise stereo and creation of a fusion mesh using MSL Curiosity rover images.
- * [MSL CSM](https://github.com/NeoGeographyToolkit/StereoPipelineSolvedExamples/releases/tag/MSL_CSM) - an example of creating and using CSM camera models for the MSL Curiosity rover with ASP.
+ * [MSL CSM](https://github.com/NeoGeographyToolkit/StereoPipelineSolvedExamples/releases/tag/MSL_CSM) - an example of creating and using CSM camera models for the MSL Curiosity rover.
